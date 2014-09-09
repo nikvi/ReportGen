@@ -1,0 +1,5 @@
+#.gitignore
+client_secret.json
+data.csv
+data1.csv
+localStore.dat
